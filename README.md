@@ -1,7 +1,6 @@
 # py_web_scrap_util
 
-# A simple python based web scraping util.
+A simple python based web scraping util.
+Run the main.py file.
 
-# Run the main.py file.
-
-python main.py <linkFile>
+python main.py _linkFile_
